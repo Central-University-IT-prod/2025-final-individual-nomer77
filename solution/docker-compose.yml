@@ -1,0 +1,96 @@
+services:
+  redis:
+    image: redis:alpine
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis:/data
+
+  postgres:
+    image: postgres:14.12-bullseye
+    restart: unless-stopped
+    command: -c 'max_connections=500'
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DATABASE=postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres -h localhost -p 5432" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  pgbouncer:
+    image: edoburu/pgbouncer
+    container_name: pgbouncer
+    restart: always
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DB_HOST: postgres
+    ports:
+      - "6432:6432"
+    volumes:
+      - ./pgbouncer/pgbouncer.ini:/etc/pgbouncer/pgbouncer.ini
+      - ./pgbouncer/userlist.txt:/etc/pgbouncer/userlist.txt
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres -h localhost -p 6432" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+
+  minio:
+    image: minio/minio:latest
+    restart: always
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:9000/minio/health/live" ]
+      interval: 30s
+      timeout: 20s
+      retries: 3
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - minio_data:/data
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    command: server /data --console-address ":9001"
+
+  django_wsgi:
+    ports:
+      - "8080:8080"
+    depends_on:
+      pgbouncer:
+        condition: service_healthy
+      minio:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    container_name: web_wsgi
+    build: ./adspresso
+    command: sh -c "python manage.py migrate &&
+      gunicorn --workers 4 --log-level debug adspresso.wsgi:application --bind REDACTED:8080"
+    volumes:
+      - ./adspresso:/code
+    environment:
+      - POSTGRES_HOST=pgbouncer
+      - POSTGRES_PORT=6432
+      - REDIS_HOST=redis
+      - MINIO_ENDPOINT=minio:9000
+      - LLM_AUTH_KEY="REDACTED=="
+      - SECRET_KEY="django-insecure-zj0^dgx6ho#p3w4p+o=vu(4475uawza&a829azl(t=rjzytkf9"
+
+volumes:
+  postgres_data:
+  minio_data:
+  redis:

@@ -1,0 +1,642 @@
+[
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "addf3407-9265-44b8-8e7e-6b015f63c47d",
+    "score": 8874
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "4d830921-f650-4f2f-869b-db48208dc952",
+    "score": 6510
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "752ddcd3-e944-4eaf-b1de-5e49977354a7",
+    "score": 4227
+  },
+  {
+    "client_id": "99804214-3cdc-4941-933a-dfaf3e273712",
+    "advertiser_id": "e04d35cd-e24b-4bfd-b5fa-6ac1c12ae8a0",
+    "score": 99804
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "8b7f547f-bab5-448d-9997-61cbbd6e3f1c",
+    "score": 5952
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "57dd000f-32fe-4a49-8dca-bfdc84fec7dd",
+    "score": 6022
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "22d28b06-32c5-434e-b05e-0654fa1cac09",
+    "score": 7784
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "7ba54148-4885-48da-97ba-6ecf7b3a300b",
+    "score": 9713
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "00ac5657-1a1a-48f1-815a-2ffdb72b82b8",
+    "score": 4085
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "b9d5a8ce-ae23-4a93-946e-4bd85bddef5c",
+    "score": 6302
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "3696b94d-6591-4e15-86f3-8c46ee535e27",
+    "score": 882
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "20024aab-2476-4d35-b96f-f47589f05474",
+    "score": 8245
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "a68ef7d6-c50f-40d1-b70f-a32d7cdcd036",
+    "score": 7427
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "960e2896-3f34-43a3-8aa1-d984bb92b96e",
+    "score": 866
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "80a7f6a9-5939-4d74-9a7e-e455b9fa0fdd",
+    "score": 2325
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "6bb59511-360d-49dc-9626-be2f6b9b3a0a",
+    "score": 631
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "d7a27dc9-7d8d-4f25-bea4-2528f88238d1",
+    "score": 7368
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "e6cde283-ca4b-456c-b1fb-c2967918b5ef",
+    "score": 4828
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "2a51ba38-bed3-43af-bbb4-99093b72e0d1",
+    "score": 7240
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "95a9a488-8fee-4aa6-9c21-458f8f5523ca",
+    "score": 7543
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "2fb992b8-4441-47f5-9176-1da68526eafb",
+    "score": 9933
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "f0d160bd-18b4-4c88-917c-06b699abeeec",
+    "score": 8486
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "d8147d8c-2bcd-4ac8-bab5-82e420509a7f",
+    "score": 2895
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "94209720-2c10-4a55-bc37-c28838d08012",
+    "score": 2182
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "33fae4ce-d252-4b34-af2b-c11e770f65b5",
+    "score": 874
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "2c0261ba-bd3c-4b19-a53c-44efa10819e5",
+    "score": 6314
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "0892fbb7-fbc6-45e9-b52f-494258a9c8f8",
+    "score": 9257
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "055af498-567a-4a4e-b25f-60a57b9b591c",
+    "score": 8386
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "0dfd7246-4cfa-4721-899b-e6dd9c483626",
+    "score": 473
+  },
+  {
+    "client_id": "425495af-f78e-4cff-a808-e8f1a1973ff2",
+    "advertiser_id": "32d75bc6-0779-4081-98b3-58273497c561",
+    "score": 6284
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "addf3407-9265-44b8-8e7e-6b015f63c47d",
+    "score": 3472
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "4d830921-f650-4f2f-869b-db48208dc952",
+    "score": 7061
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "752ddcd3-e944-4eaf-b1de-5e49977354a7",
+    "score": 6960
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "e04d35cd-e24b-4bfd-b5fa-6ac1c12ae8a0",
+    "score": 316
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "8b7f547f-bab5-448d-9997-61cbbd6e3f1c",
+    "score": 718
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "57dd000f-32fe-4a49-8dca-bfdc84fec7dd",
+    "score": 6607
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "22d28b06-32c5-434e-b05e-0654fa1cac09",
+    "score": 2862
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "7ba54148-4885-48da-97ba-6ecf7b3a300b",
+    "score": 5151
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "00ac5657-1a1a-48f1-815a-2ffdb72b82b8",
+    "score": 9377
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "b9d5a8ce-ae23-4a93-946e-4bd85bddef5c",
+    "score": 5640
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "3696b94d-6591-4e15-86f3-8c46ee535e27",
+    "score": 8901
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "20024aab-2476-4d35-b96f-f47589f05474",
+    "score": 8249
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "a68ef7d6-c50f-40d1-b70f-a32d7cdcd036",
+    "score": 6782
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "960e2896-3f34-43a3-8aa1-d984bb92b96e",
+    "score": 2602
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "80a7f6a9-5939-4d74-9a7e-e455b9fa0fdd",
+    "score": 8292
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "6bb59511-360d-49dc-9626-be2f6b9b3a0a",
+    "score": 2864
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "d7a27dc9-7d8d-4f25-bea4-2528f88238d1",
+    "score": 7767
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "e6cde283-ca4b-456c-b1fb-c2967918b5ef",
+    "score": 7858
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "2a51ba38-bed3-43af-bbb4-99093b72e0d1",
+    "score": 4074
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "95a9a488-8fee-4aa6-9c21-458f8f5523ca",
+    "score": 9239
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "2fb992b8-4441-47f5-9176-1da68526eafb",
+    "score": 9389
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "f0d160bd-18b4-4c88-917c-06b699abeeec",
+    "score": 9574
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "d8147d8c-2bcd-4ac8-bab5-82e420509a7f",
+    "score": 9601
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "94209720-2c10-4a55-bc37-c28838d08012",
+    "score": 3619
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "33fae4ce-d252-4b34-af2b-c11e770f65b5",
+    "score": 253
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "2c0261ba-bd3c-4b19-a53c-44efa10819e5",
+    "score": 5235
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "0892fbb7-fbc6-45e9-b52f-494258a9c8f8",
+    "score": 9183
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "055af498-567a-4a4e-b25f-60a57b9b591c",
+    "score": 175
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "0dfd7246-4cfa-4721-899b-e6dd9c483626",
+    "score": 2167
+  },
+  {
+    "client_id": "df332801-239d-4cb3-8039-a83d1a21af23",
+    "advertiser_id": "32d75bc6-0779-4081-98b3-58273497c561",
+    "score": 178
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "addf3407-9265-44b8-8e7e-6b015f63c47d",
+    "score": 5568
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "4d830921-f650-4f2f-869b-db48208dc952",
+    "score": 6725
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "752ddcd3-e944-4eaf-b1de-5e49977354a7",
+    "score": 6043
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "e04d35cd-e24b-4bfd-b5fa-6ac1c12ae8a0",
+    "score": 199
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "8b7f547f-bab5-448d-9997-61cbbd6e3f1c",
+    "score": 3532
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "57dd000f-32fe-4a49-8dca-bfdc84fec7dd",
+    "score": 572
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "22d28b06-32c5-434e-b05e-0654fa1cac09",
+    "score": 4592
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "7ba54148-4885-48da-97ba-6ecf7b3a300b",
+    "score": 4946
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "00ac5657-1a1a-48f1-815a-2ffdb72b82b8",
+    "score": 4311
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "b9d5a8ce-ae23-4a93-946e-4bd85bddef5c",
+    "score": 12
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "3696b94d-6591-4e15-86f3-8c46ee535e27",
+    "score": 5233
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "20024aab-2476-4d35-b96f-f47589f05474",
+    "score": 9548
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "a68ef7d6-c50f-40d1-b70f-a32d7cdcd036",
+    "score": 1510
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "960e2896-3f34-43a3-8aa1-d984bb92b96e",
+    "score": 4157
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "80a7f6a9-5939-4d74-9a7e-e455b9fa0fdd",
+    "score": 7613
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "6bb59511-360d-49dc-9626-be2f6b9b3a0a",
+    "score": 4258
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "d7a27dc9-7d8d-4f25-bea4-2528f88238d1",
+    "score": 9530
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "e6cde283-ca4b-456c-b1fb-c2967918b5ef",
+    "score": 6677
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "2a51ba38-bed3-43af-bbb4-99093b72e0d1",
+    "score": 1153
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "95a9a488-8fee-4aa6-9c21-458f8f5523ca",
+    "score": 715
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "2fb992b8-4441-47f5-9176-1da68526eafb",
+    "score": 6857
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "f0d160bd-18b4-4c88-917c-06b699abeeec",
+    "score": 5023
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "d8147d8c-2bcd-4ac8-bab5-82e420509a7f",
+    "score": 3581
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "94209720-2c10-4a55-bc37-c28838d08012",
+    "score": 5102
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "33fae4ce-d252-4b34-af2b-c11e770f65b5",
+    "score": 3093
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "2c0261ba-bd3c-4b19-a53c-44efa10819e5",
+    "score": 4582
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "0892fbb7-fbc6-45e9-b52f-494258a9c8f8",
+    "score": 8901
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "055af498-567a-4a4e-b25f-60a57b9b591c",
+    "score": 2486
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "0dfd7246-4cfa-4721-899b-e6dd9c483626",
+    "score": 7575
+  },
+  {
+    "client_id": "1cdc0419-44ac-489d-97d0-bd197cf36d24",
+    "advertiser_id": "32d75bc6-0779-4081-98b3-58273497c561",
+    "score": 4851
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "addf3407-9265-44b8-8e7e-6b015f63c47d",
+    "score": 5837
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "4d830921-f650-4f2f-869b-db48208dc952",
+    "score": 2940
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "752ddcd3-e944-4eaf-b1de-5e49977354a7",
+    "score": 374
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "e04d35cd-e24b-4bfd-b5fa-6ac1c12ae8a0",
+    "score": 5459
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "8b7f547f-bab5-448d-9997-61cbbd6e3f1c",
+    "score": 479
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "57dd000f-32fe-4a49-8dca-bfdc84fec7dd",
+    "score": 327
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "22d28b06-32c5-434e-b05e-0654fa1cac09",
+    "score": 3607
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "7ba54148-4885-48da-97ba-6ecf7b3a300b",
+    "score": 8542
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "00ac5657-1a1a-48f1-815a-2ffdb72b82b8",
+    "score": 8940
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "b9d5a8ce-ae23-4a93-946e-4bd85bddef5c",
+    "score": 6889
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "3696b94d-6591-4e15-86f3-8c46ee535e27",
+    "score": 2400
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "20024aab-2476-4d35-b96f-f47589f05474",
+    "score": 7823
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "a68ef7d6-c50f-40d1-b70f-a32d7cdcd036",
+    "score": 5626
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "960e2896-3f34-43a3-8aa1-d984bb92b96e",
+    "score": 1208
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "80a7f6a9-5939-4d74-9a7e-e455b9fa0fdd",
+    "score": 3181
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "6bb59511-360d-49dc-9626-be2f6b9b3a0a",
+    "score": 4326
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "d7a27dc9-7d8d-4f25-bea4-2528f88238d1",
+    "score": 1952
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "e6cde283-ca4b-456c-b1fb-c2967918b5ef",
+    "score": 6614
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "2a51ba38-bed3-43af-bbb4-99093b72e0d1",
+    "score": 6842
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "95a9a488-8fee-4aa6-9c21-458f8f5523ca",
+    "score": 570
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "2fb992b8-4441-47f5-9176-1da68526eafb",
+    "score": 827
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "f0d160bd-18b4-4c88-917c-06b699abeeec",
+    "score": 907
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "d8147d8c-2bcd-4ac8-bab5-82e420509a7f",
+    "score": 3108
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "94209720-2c10-4a55-bc37-c28838d08012",
+    "score": 3045
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "33fae4ce-d252-4b34-af2b-c11e770f65b5",
+    "score": 9751
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "2c0261ba-bd3c-4b19-a53c-44efa10819e5",
+    "score": 6849
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "0892fbb7-fbc6-45e9-b52f-494258a9c8f8",
+    "score": 7673
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "055af498-567a-4a4e-b25f-60a57b9b591c",
+    "score": 5403
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "0dfd7246-4cfa-4721-899b-e6dd9c483626",
+    "score": 1355
+  },
+  {
+    "client_id": "d3a75bae-d75a-49ee-b368-1fc5e3d6306a",
+    "advertiser_id": "32d75bc6-0779-4081-98b3-58273497c561",
+    "score": 8562
+  },
+  {
+    "client_id": "e9d0aef2-d921-4792-aac1-0ddde7c3c443",
+    "advertiser_id": "addf3407-9265-44b8-8e7e-6b015f63c47d",
+    "score": 3694
+  },
+  {
+    "client_id": "e9d0aef2-d921-4792-aac1-0ddde7c3c443",
+    "advertiser_id": "4d830921-f650-4f2f-869b-db48208dc952",
+    "score": 1185
+  },
+  {
+    "client_id": "e9d0aef2-d921-4792-aac1-0ddde7c3c443",
+    "advertiser_id": "752ddcd3-e944-4eaf-b1de-5e49977354a7",
+    "score": 8014
+  },
+  {
+    "client_id": "e9d0aef2-d921-4792-aac1-0ddde7c3c443",
+    "advertiser_id": "e04d35cd-e24b-4bfd-b5fa-6ac1c12ae8a0",
+    "score": 4273
+  },
+  {
+    "client_id": "e9d0aef2-d921-4792-aac1-0ddde7c3c443",
+    "advertiser_id": "8b7f547f-bab5-448d-9997-61cbbd6e3f1c",
+    "score": 9316
+  },
+  {
+    "client_id": "e9d0aef2-d921-4792-aac1-0ddde7c3c443",
+    "advertiser_id": "57dd000f-32fe-4a49-8dca-bfdc84fec7dd",
+    "score": 3432
+  },
+  {
+    "client_id": "e9d0aef2-d921-4792-aac1-0ddde7c3c443",
+    "advertiser_id": "22d28b06-32c5-434e-b05e-0654fa1cac09",
+    "score": 5843
+  },
+  {
+    "client_id": "e9d0aef2-d921-4792-aac1-0ddde7c3c443",
+    "advertiser_id": "7ba54148-4885-48da-97ba-6ecf7b3a300b",
+    "score": 2889
+  }
+]
